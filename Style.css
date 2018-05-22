@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+body {margin:0;}
+
+div.scrollmenu{
+    background: color #333333;
+    overflow:auto;
+    white-space: nowrap;
+    bottom: 0;
+    list-style-type: none;  
+    background-color: #333;
+    position:fixed;
+    width: 100%;
+    overflow-x:scroll;
+   
+}
+img {
+    width: 113px;
+    height: 104px;
+}
+
+#ihih {
+    width: 200px;
+    height: 120px;
+}
+
+div.scrollmenu img {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration:none;
+}
+div.scrollmenu img:hover {
+    background-color: rgb(18, 150, 25);
+}
+.active {
+    background-color: rgb(6, 53, 6);
+}
+
+h1 {
+    color: white;
+}
+
+/*
+li a:hover:not(.active) {
+    background-color: rgb(31, 27, 29);
+}
+
