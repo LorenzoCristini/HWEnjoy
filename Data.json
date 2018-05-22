@@ -1,15 +1,34 @@
 {
     "hardwareList": [
-        {   
-                            
-            
-        
+        {
+            "imgUrl": "Motherboardxd.png"
         },
         {
-            
+            "imgUrl": "Cpuxd.png"
         },
         {
-            
+            "imgUrl": "Ramxd.png"
+        },
+        {
+            "imgUrl": "Gpuxd.png"
+        },
+        {
+            "imgUrl": "Psuxd.png"
+        },
+        {
+            "imgUrl": "Hddxd.png"
+        },
+        {
+            "imgUrl": "Casexd.png"
+        },
+        {
+            "imgUrl": "Keyboardxd.png"
+        },
+        {
+            "imgUrl": "Mousexd.png"
+        },
+        {
+            "imgUrl": "Cuffiexd.png"
         }
     ]
 }
